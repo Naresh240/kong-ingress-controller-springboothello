@@ -21,3 +21,5 @@ kubectl apply -f springboot/ingress.yaml
 ```
 
 ## Check ingress url in UI
+
+![image](https://user-images.githubusercontent.com/58024415/234222428-0417d76c-2fa3-4429-b1f0-51c5aef587f2.png)
